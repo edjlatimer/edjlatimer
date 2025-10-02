@@ -6,8 +6,8 @@
   - [osTicket: Prerequisites and Installation](https://github.com/edjlatimer/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/edjlatimer/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/edjlatimer/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/edjlatimer/Configuring-Active-Directory)
+- <b>Active Directory</b>
+  - [Preparing Active Directory Infrastructure within Azure](https://github.com/edjlatimer/Configuring-Active-Directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/edjlatimer/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
