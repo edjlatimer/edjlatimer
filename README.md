@@ -10,7 +10,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/edjlatimer/ticket-lifecycle)
 - <b>Active Directory</b>
   - [Active Directory: Preparing Active Directory Infrastructure within Azure](https://github.com/edjlatimer/Configuring-Active-Directory)
-  
+  - [Active Directory: Deploying Active Directory](https://github.com/edjlatimer/Deploying-Active-Directory)  
 
 <h2>🤳Connect with me:</h2>
 
