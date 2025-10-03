@@ -9,7 +9,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/edjlatimer/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/edjlatimer/ticket-lifecycle)
 - <b>Active Directory</b>
-  - [Preparing Active Directory Infrastructure within Azure](https://github.com/edjlatimer/Configuring-Active-Directory)
+  - [Active Directory: Preparing Active Directory Infrastructure within Azure](https://github.com/edjlatimer/Configuring-Active-Directory)
   
 
 <h2>🤳Connect with me:</h2>
